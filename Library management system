@@ -1,7 +1,5 @@
-#include
-#include
-#include
-
+#include iostream
+#include string
 using namespace std;
 
 // Constants
