@@ -47,13 +47,3 @@ The 10 is Too low!
 
 Enter your guess between 1 and 100: 15
 The 15 is Too low!
-
-Enter your guess between 1 and 100: 18
-The 18 is Too high!
-
-Enter your guess between 1 and 100: 17
-The 17 is Too high!
-
-Enter your guess between 1 and 100: 16
-
-Voila! You got the right guess 16 in 7 tries!
